@@ -1,8 +1,6 @@
 <!--  -->
 <template>
-    <div class=''>aaaaaaa
-        
-    </div>
+    <div class=''>bbbbbbbbbb</div>
 </template>
 
 <script>
